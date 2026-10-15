@@ -83,10 +83,7 @@ Here are some projects from my learning and development journey. Open each repos
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=aishwaryalavate1502-glitch&theme=omni&hide_border=true&background=18122B&ring=FF69B4&fire=EF93C4&currStreakLabel=F8BBD0" alt="GitHub contribution streak" width="95%">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aishwaryalavate1502-glitch&bg_color=18122B&color=F8BBD0&line=EF93C4&point=FF69B4&area=true&hide_border=true" alt="GitHub activity graph" width="100%">
-
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aishwaryalavate1502-glitch&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
 ## 🐍 Contribution Snake
