@@ -82,10 +82,8 @@ Here are some projects from my learning and development journey. Open each repos
 
 ## 📊 GitHub Activity Graph
 
-<## 📊 GitHub Activity
-
 <div align="center">
-    [![Aishwarya's github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aishwaryalavate1502-glitch)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aishwaryalavate1502-glitch&theme=react-dark&hide_border=true" width="100%" />
 </div>
     
 
