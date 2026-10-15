@@ -83,9 +83,8 @@ Here are some projects from my learning and development journey. Open each repos
 ## 📊 GitHub Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aishwaryalavate1502-glitch&theme=react-dark&hide_border=true" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aishwaryalavate1502-glitch&show_icons=true&theme=react-dark&hide_border=true" width="100%" />
 </div>
-    
 
 ## 🐍 Contribution Snake
 
