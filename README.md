@@ -79,11 +79,19 @@ Here are some projects from my learning and development journey. Open each repos
 
 > Note: These are project areas from my portfolio development. Pin only repositories that are available and ready to show, and update each description to match its actual implementation and results.
 
-## 📊 GitHub Activity
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aishwaryalavate1502-glitch&theme=react-dark&hide_border=true&type=svg" width="100%" />
-</div>
+## 📊 GitHub Activity Graph
+
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=aishwaryalavate1502-glitch&bg_color=0d1117&color=c9d1d9&line=a855f7&point=ffffff&area=true&hide_border=true"
+      alt="GitHub Activity Graph"
+      width="100%"
+    />
+  </a>
+</p>
+
 ## 🐍 Contribution Snake
 
 <div align="center">
