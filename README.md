@@ -93,9 +93,7 @@ Here are some projects from my learning and development journey. Open each repos
 
 <div align="center">
 
-<!-- To enable this animation, add the GitHub Actions workflow described below. -->
-<img src="https://raw.githubusercontent.com/aishwaryalavate1502-glitch/aishwaryalavate1502-glitch/output/github-contribution-grid-snake.svg" alt="Contribution snake animation">
-
+![Snake Animation](https://raw.githubusercontent.com/aishwaryalavate1502-glitch/aishwaryalavate1502-glitch/output/github-contribution-grid-snake.svg)
 </div>
 
 To enable the snake animation, create `.github/workflows/snake.yml` in your **profile repository** and configure a contribution-snake GitHub Action to generate the `output` branch/file. The image will remain unavailable until the workflow successfully publishes it.
