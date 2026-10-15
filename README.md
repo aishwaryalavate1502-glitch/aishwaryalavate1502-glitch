@@ -82,15 +82,12 @@ Here are some projects from my learning and development journey. Open each repos
 
 ## 📊 GitHub Activity Graph
 
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=aishwaryalavate1502-glitch&bg_color=0d1117&color=c9d1d9&line=a855f7&point=ffffff&area=true&hide_border=true"
-      alt="GitHub Activity Graph"
-      width="100%"
-    />
-  </a>
-</p>
+<## 📊 GitHub Activity
+
+<div align="center">
+    [![Aishwarya's github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aishwaryalavate1502-glitch)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>
+    
 
 ## 🐍 Contribution Snake
 
