@@ -14,8 +14,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/aishwaryalavate1502-glitch?label=Followers&style=for-the-badge&color=EF93C4&labelColor=18122B)](https://github.com/aishwaryalavate1502-glitch)
 [![GitHub stars](https://img.shields.io/github/stars/aishwaryalavate1502-glitch?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=F8BBD0&labelColor=18122B)](https://github.com/aishwaryalavate1502-glitch?tab=repositories)
-[![Profile Views](https://komarev.com/ghpvc/?username=aishwaryalavate1502-glitch&style=for-the-badge&color=FF69B4&label=PROFILE+VIEWS)](https://github.com/aishwaryalavate1502-glitch)
-
+![Profile Views](https://komarev.com/ghpvc/?username=aishwaryalavate1502-glitch&color=ff69b4&style=flat-square&label=PROFILE+VIEWS)
 </div>
 
 ---
